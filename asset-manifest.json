@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/kameleoon-testing/static/css/main.3e5a3cee.chunk.css",
+    "main.js": "/kameleoon-testing/static/js/main.dde30c95.chunk.js",
+    "main.js.map": "/kameleoon-testing/static/js/main.dde30c95.chunk.js.map",
+    "runtime-main.js": "/kameleoon-testing/static/js/runtime-main.6b19f57a.js",
+    "runtime-main.js.map": "/kameleoon-testing/static/js/runtime-main.6b19f57a.js.map",
+    "static/css/2.de424728.chunk.css": "/kameleoon-testing/static/css/2.de424728.chunk.css",
+    "static/js/2.6d3825e3.chunk.js": "/kameleoon-testing/static/js/2.6d3825e3.chunk.js",
+    "static/js/2.6d3825e3.chunk.js.map": "/kameleoon-testing/static/js/2.6d3825e3.chunk.js.map",
+    "index.html": "/kameleoon-testing/index.html",
+    "precache-manifest.b7b1a976fbfe9f54403015a7028249f2.js": "/kameleoon-testing/precache-manifest.b7b1a976fbfe9f54403015a7028249f2.js",
+    "service-worker.js": "/kameleoon-testing/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/kameleoon-testing/static/css/2.de424728.chunk.css.map",
+    "static/css/main.3e5a3cee.chunk.css.map": "/kameleoon-testing/static/css/main.3e5a3cee.chunk.css.map",
+    "static/js/2.6d3825e3.chunk.js.LICENSE.txt": "/kameleoon-testing/static/js/2.6d3825e3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b19f57a.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.6d3825e3.chunk.js",
+    "static/css/main.3e5a3cee.chunk.css",
+    "static/js/main.dde30c95.chunk.js"
+  ]
+}
