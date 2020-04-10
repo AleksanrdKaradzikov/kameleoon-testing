@@ -1,0 +1,30 @@
+.usage-bar {
+  border-bottom: 1px solid #F4F4F4;
+  font-size: 14px;
+  padding: 20px 15px;
+}
+
+.usage-bar__text,
+.usage-bar__sort-text {
+  color: #71BDAD;
+}
+
+.usage-bar__sort-text {
+  display: flex;
+  align-items: center;
+}
+
+.sort-arrow {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 7px;
+  margin-left: 8px;
+  cursor: pointer;
+  color: silver;
+}
+
+.sort-arrow .active {
+  color: #71BDAD;
+}
